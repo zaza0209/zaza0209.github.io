@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hu, Liyuan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Liyuan Hu"
+description              : &description "Ph.D. candidate in Statistics (Reinforcement Learning) at London School of Economics, graduating 2026, with extensive experience in quantitative research and algorithm development across fintech and e-commerce sectors. Currently developing cutting-edge reinforcement learning algorithms for non-stationary and heterogeneous data environments while gaining hands-on industry experience as an research scientist Intern at TikTok, where I optimize e-commerce strategies through automated development, data analysis, and A/B testing. My research portfolio spans statistical machine learning, quantitative finance, and reinforcement learning applications. Seeking full-time opportunities in Data Science and Quantitative Research where I can apply advanced statistical methods and machine learning techniques to solve complex business problems and drive data-driven decision making."
+url                      : https://zaza0209.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zaza0209/zaza0209.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liyuan Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. candidate in Statistics"
+  location         : "London"
+  employer         : "London School of Economics"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "l.hu11@lse.ac.uk" 
 
   # Academic websites
   academia         : # URL
