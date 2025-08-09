@@ -7,45 +7,89 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student from [London School of Economics and Political Science]. My research interest includes reinforcement learning applications, .
+I'm a third year PhD student from London School of Economics and Political Science. My research interest includes reinforcement learning applications. I am very fortunate to be advised by [Prof. Chengchun Shi](https://callmespring.github.io/) from London School of Economics and Political Science. 
 
-I am very fortunate to be advised by [Prof. Chengchun Shi](https://callmespring.github.io/) from London School of Economics and Political Science. I was advised by [Prof. ](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Education
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**London School of Economics and Political Science** | *2022.09 - 2026*  
+**Ph.D. in Statistics** | Reinforcement Learning Track  
+- **Honor**: Full Ph.D. Scholarship
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Sun Yat-sen University** | *2018.09 - 2022.06*  
+**B.S. in Statistics**, School of Mathematics  
+- **GPA**: 4.3/5.0 (Ranked 2/78)
+- **Relevant Coursework**: Statistical Learning, Complex Data Analysis, Data Structures, Mathematical Statistics
+- **Honors**: National Scholarship (2×), First-Class University Scholarship (3×), National Second Prize in Chinese Mathematical Contest in Modeling (2019)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Professional Experience
 
-**Markdown generator**
+**TikTok Global Monetization Product and Technology** | *July 2025 - Present*  
+**Research Scientist**, Commerce Ads Technology 
+- Participated in TikTok e-commerce platform GMV Max product development, conducting automated development, data analysis, and A/B testing to improve overall ROI revenue
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Huatai Securities Research Institute** | *April 2025 - July 2025*  
+**Alpha Team Researcher**, Financial Engineering Group
+- Enhanced value factors using large language models based on annual report data
+- Balanced context length limitations, cost constraints, and training effectiveness in machine learning methods for LLM training
+- Implemented end-to-end factor mining using Graph Neural Networks to model cross-sectional stock return factors
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Invesco Great Wall Fund** | *October 2024 - February 2025*  
+**Quantitative Researcher**, Quantitative and Index Investment Department
+- Developed end-to-end index enhancement strategies
+- Reproduced and improved LinSAT (a differentiable combinatorial optimization neural network component), optimizing training time by nearly 10× while maintaining equivalent performance
+- Achieved 10%-40% improvement in Information Ratio (IR) for enhancement strategies on CSI 300, CSI 500, and CSI 1000 indices compared to traditional non-end-to-end multi-factor stock selection frameworks
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Research Projects
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Q-Function Strategy Optimization Addressing Inter-Group Data Correlation** | *January 2023 - May 2025*  
+**First Author**
+- Investigated applications of Generalized Estimating Equations in reinforcement learning
+- Proposed a novel Fitted Q-iteration algorithm that improves learning strategy effectiveness by estimating inter-group data correlations
+- Submitted to *Statistics Journal*
+
+**Deterministic Linear Reinforcement Learning Strategy Optimization** | *August 2023 - Present*  
+**First Author**
+- Developed linear deterministic reinforcement learning strategies suitable for device-constrained environments
+- Addressed existing device limitations in storage and design aspects
+- Conducted simulation validation on medical school simulators
+
+**Strategy Optimization for Non-Stationary Heterogeneous Data** | *April 2022 - February 2025*  
+**First Author**
+- Developed novel reinforcement learning algorithms for temporally non-stationary and individually heterogeneous data
+- Enhanced reinforcement learning applicability and efficiency in dynamic environments
+- Preparing submission to *Journal of the Royal Statistical Society Series B*
+
+**COVID-19 County-Level Mortality Risk Analysis in the United States** | *April 2020 - September 2021*  
+**First Author**
+- Conducted risk analysis of COVID-19 mortality rates across 3,125 U.S. counties
+- Explored health and socioeconomic factors related to mortality rates
+- Published in *Infectious Diseases of Poverty*
+
+## Software Development
+
+**abess: Fast Best Subset Selection Package (PyPI & R CRAN)** | *December 2020 - September 2021*  
+**First Author**
+- Co-developed the abess library, implementing and extending core algorithms based on C++ kernel
+- Developed corresponding R interface for the library
+- Created efficient toolkit for best subset selection problems in machine learning (linear regression, classification, PCA)
+- Achieved 20× speed improvement compared to existing tools
+- Published in *The Journal of Machine Learning Research*
+
+**bestridge: Best Subset Selection with Ridge Penalty Package (R CRAN)** | *February 2020 - March 2021*
+- Responsible for algorithm design and C++ kernel implementation
+- Led R interface development
+
+## Technical Skills
+
+- **Programming Languages**: Python, C++, R
+- **Specializations**: Machine Learning, Reinforcement Learning, Quantitative Finance, Statistical Modeling
+- **Languages**: English (TOEFL 108), Chinese (Native), CET-6
+
+## Publications & Achievements
+
+- Published research in *Infectious Diseases of Poverty* and *The Journal of Machine Learning Research*
+- Multiple submissions to top-tier statistics journals in progress
+- National-level competition recognition in mathematical modeling
+- Consistent academic excellence with multiple scholarship awards
