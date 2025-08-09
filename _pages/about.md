@@ -26,7 +26,7 @@ I'm a third year PhD student from London School of Economics and Political Scien
 ## Professional Experience
 
 **TikTok Global Monetization Product and Technology** | *July 2025 - Present*  
-**Research Scientist**, Commerce Ads Technology 
+**Algorithm Engineer**, Commerce Ads Technology 
 - Participated in TikTok e-commerce platform GMV Max product development, conducting automated development, data analysis, and A/B testing to improve overall ROI revenue
 
 **Huatai Securities Research Institute** | *April 2025 - July 2025*  
