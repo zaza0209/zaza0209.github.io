@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student from London School of Economics and Political Science. My research interest includes reinforcement learning applications. I am very fortunate to be advised by [Prof. Chengchun Shi](https://callmespring.github.io/) from London School of Economics and Political Science. 
+I'm a final year PhD student from London School of Economics and Political Science. My research interest includes reinforcement learning applications. I am very fortunate to be advised by [Prof. Chengchun Shi](https://callmespring.github.io/) from London School of Economics and Political Science. 
 
 
 
